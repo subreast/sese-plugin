@@ -1,0 +1,22 @@
+#此文件为关于撤回时间的配置
+
+
+#二次元区
+Withdrawaltime_ecy: 30
+Withdrawaltime_yinfa: 30
+Withdrawaltime_shouer: 30
+
+
+#三次元区
+Withdrawaltime_sanciyuan: 30
+Withdrawaltime_kantui: 30
+Withdrawaltime_kanjiao: 30
+Withdrawaltime_jk: 30
+Withdrawaltime_yujie: 30
+Withdrawaltime_heisi: 30
+Withdrawaltime_baisi: 30
+Withdrawaltime_qipao: 30
+Withdrawaltime_tunvlang: 30
+Withdrawaltime_sexybeauty: 30
+Withdrawaltime_yuanshencos: 30
+Withdrawaltime_search: 30

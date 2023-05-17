@@ -1,0 +1,20 @@
+#该文件用来设置发送图片最大数量
+
+
+#二次元区
+maxNumber_ecy: 10
+maxNumber_yinfa: 10
+maxNumber_shouer: 10
+
+#三次元区
+maxNumber_sanciyuan: 10
+maxNumber_kantui: 10
+maxNumber_kanjiao: 10
+maxNumber_jk: 10
+maxNumber_yujie: 10
+maxNumber_heisi: 10
+maxNumber_baisi: 10
+maxNumber_qipao: 10
+maxNumber_tunvlang: 10
+maxNumber_yuanshencos: 10
+maxNumber_sexybeauty: 100

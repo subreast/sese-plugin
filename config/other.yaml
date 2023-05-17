@@ -1,0 +1,17 @@
+#该文件是控制某个功能的开启或关闭
+
+ecy: true
+yinfa: true
+shouer: true
+sanciyuan: true
+kantui: true
+kanjiao: true
+jk: true
+yujie: true
+heisi: true
+baisi: true
+qipao: true
+tunvlang: true
+sexybeauty: true
+yuanshencos: true
+search: true

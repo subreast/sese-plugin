@@ -1,0 +1,20 @@
+#此配置项为是否开启仅主人生效
+
+#二次元区
+ecy: false
+yinfa: false
+shouer: false
+
+#三次元区
+sanciyuan: false
+kantui: false
+kanjiao: false
+jk: false
+yujie: false
+heisi: false
+baisi: false
+qipao: false
+tunvlang: false
+yuanshencos: false
+sexybeauty: false
+search: false
