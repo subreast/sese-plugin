@@ -2,6 +2,7 @@ import lodash from 'lodash'
 import fs from 'fs'
 const _path = process.cwd()
 const plugin = 'sese-plugin'
+
 const getRoot = (root = '') => {
   if (root === 'root' || root === 'yunzai') {
     root = `${_path}/`
